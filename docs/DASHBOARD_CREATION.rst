@@ -1637,6 +1637,7 @@ Cosmetic Arguments
 -  ``level_style``
 -  ``level_up_style``
 -  ``level_down_style``
+-  ``units_style``
 
 group
 ~~~~~
